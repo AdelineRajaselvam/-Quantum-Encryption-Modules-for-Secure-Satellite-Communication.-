@@ -12,6 +12,8 @@ OBJECTIVES:
                            The objective of this is to develop a quantum encryption module for satellite communication, it is important to ensure that it supports standard data rates of DVB-S2 modems, which are typically at 2 to 4 Mbps. The module should be designed to be in a plug and play form factor, which means that it should be easy to install and use with minimal configuration. Additionally, the module should be able to interface with existing antenna systems, which would facilitate easy integration with existing satellite systems.              
                The design and development of a quantum encryption module for satellite communication would require a team of experts in the field of quantum cryptography, electronics, and satellite communication. The module should undergo rigorous testing to ensure its reliability, efficiency, and compatibility with existing satellite systems. The development process should also consider the power requirements, size, weight, and other practical considerations for space-based applications.
 
+![image](https://github.com/AdelineRajaselvam/-Quantum-Encryption-Modules-for-Secure-Satellite-Communication.-/assets/97666603/e64b11b2-5e5e-44f2-9472-19c80db6d203)
+
 IMPLEMENTATION IN PACKET TRACER:
  
 
